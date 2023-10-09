@@ -1,0 +1,30 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\refint\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\ref\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\refint\InheritanceChallenge.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\18 - Inheritance Challenge\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\ref\InheritanceChallenge.dll
